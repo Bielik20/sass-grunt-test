@@ -10,7 +10,7 @@ module.exports = {
             cwd: 'src/styles',
             src: ['site.scss'],
             dest: 'dist/styles',
-            ext: '.css'
+            ext: '.min.css'
         }]
     },
     // Production settings
