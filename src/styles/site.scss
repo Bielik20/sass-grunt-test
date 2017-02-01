@@ -1,7 +1,9 @@
-@import "my_variables";
+@import "customVariables";
+@import "bootstrap_override/variables";
 
 // Import Bootstrap
 @import "../lib/bootstrap/stylesheets/bootstrap";
 
-@import "bootstrap_overwrite";
+
+@import "bootstrapOverride";
 
